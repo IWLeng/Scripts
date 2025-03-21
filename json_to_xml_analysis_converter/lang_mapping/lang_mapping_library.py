@@ -1,4 +1,4 @@
-language_mapping = {
+lang_mapping_library = {
     "aa": {"name": "Afar", "lcid": "4096"},
     "aa_DJ": {"name": "Afar (Djibouti)", "lcid": "4096"},
     "aa_ER": {"name": "Afar (Eritrea)", "lcid": "4096"},
